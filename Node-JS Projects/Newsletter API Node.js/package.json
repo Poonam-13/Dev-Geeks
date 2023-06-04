@@ -10,7 +10,7 @@
     "author": "vedant",
     "license": "ISC",
     "dependencies": {
-      "body-parser": "^1.20.0",
+      "body-parser": "^1.20.2",
       "express": "^4.18.1",
       "request": "^2.88.2"
     }
